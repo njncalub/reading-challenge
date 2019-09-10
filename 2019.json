@@ -1,90 +1,90 @@
 [
-    {
-        "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
-        "author": "Jonasson, Jonas"
-    },
-    {
-        "title": "The Book of Tea",
-        "author": "Okakura, Kakuzō"
-    },
-    {
-        "title": "The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph",
-        "author": "Holiday, Ryan"
-    },
-    {
-        "title": "Ego Is the Enemy",
-        "author": "Holiday, Ryan"
-    },
-    {
-        "title": "Forest of a Thousand Lanterns",
-        "author": "Dao, Julie C."
-    },
-    {
-        "title": "The Beast Player",
-        "author": "Uehashi, Nahoko"
-    },
-    {
-        "title": "Steelheart",
-        "author": "Sanderson, Brandon"
-    },
-    {
-        "title": "Mitosis",
-        "author": "Sanderson, Brandon"
-    },
-    {
-        "title": "Origin",
-        "author": "Brown, Dan"
-    },
-    {
-        "title": "Flatland: A Romance of Many Dimensions",
-        "author": "Abbott, Edwin A."
-    },
-    {
-        "title": "Kingdom of the Blazing Phoenix",
-        "author": "Dao, Julie C."
-    },
-    {
-        "title": "Thinking in Systems: A Primer",
-        "author": "Meadows, Donella H."
-    },
-    {
-        "title": "Fixing My Gaze: A Scientist's Journey into Seeing in Three Dimensions",
-        "author": "Barry, Susan R."
-    },
-    {
-        "title": "Where Wizards Stay Up Late: The Origins of the Internet",
-        "author": "Hafner, Katie"
-    },
-    {
-        "title": "Hackers: Heroes of the Computer Revolution",
-        "author": "Levy, Steven"
-    },
-    {
-        "title": "The Book of Joy: Lasting Happiness in a Changing World",
-        "author": "Dalai Lama XIV,  Desmond Tutu, Douglas Carlton Abrams"
-    },
-    {
-        "title": "Breakfast of Champions",
-        "author": "Vonnegut, Kurt"
-    },
-    {
-        "title": "How to Invent Everything: A Survival Guide for the Stranded Time Traveller",
-        "author": "North, Ryan"
-    },
-    {
-        "title": "The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future",
-        "author": "Guillebeau, Chris"
-    },
-    {
-        "title": "The Catcher in the Rye",
-        "author": "Salinger, J.D."
-    },
-    {
-        "title": "Lord of the Flies",
-        "author": "Golding, William"
-    },
-    {
-        "title": "Algorithms to Live By: The Computer Science of Human Decisions",
-        "author": "Christian, Brian"
-    }
+  {
+    "title": "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
+    "authors": ["Jonas Jonasson"]
+  },
+  {
+    "title": "The Book of Tea",
+    "authors": ["Okakura Kakuzō", "Elise Grilli"]
+  },
+  {
+    "title": "The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph",
+    "authors": ["Ryan Holiday"]
+  },
+  {
+    "title": "Ego Is the Enemy",
+    "authors": ["Ryan Holiday"]
+  },
+  {
+    "title": "Forest of a Thousand Lanterns",
+    "authors": ["Julie C. Dao"]
+  },
+  {
+    "title": "The Beast Player",
+    "authors": ["Nahoko Uehashi", "Cathy Hirano"]
+  },
+  {
+    "title": "Steelheart",
+    "authors": ["Brandon Sanderson"]
+  },
+  {
+    "title": "Mitosis",
+    "authors": ["Brandon Sanderson"]
+  },
+  {
+    "title": "Origin",
+    "authors": ["Dan Brown"]
+  },
+  {
+    "title": "Flatland: A Romance of Many Dimensions",
+    "authors": ["Edwin A. Abbott", "Banesh Hoffmann"]
+  },
+  {
+    "title": "Kingdom of the Blazing Phoenix",
+    "authors": ["Julie C. Dao"]
+  },
+  {
+    "title": "Thinking in Systems: A Primer",
+    "authors": ["Donella H. Meadows", "Diana Wright"]
+  },
+  {
+    "title": "Fixing My Gaze: A Scientist's Journey into Seeing in Three Dimensions",
+    "authors": ["Susan R. Barry", "Oliver Sacks"]
+  },
+  {
+    "title": "Where Wizards Stay Up Late: The Origins of the Internet",
+    "authors": ["Katie Hafner", "Matthew Lyon"]
+  },
+  {
+    "title": "Hackers: Heroes of the Computer Revolution",
+    "authors": ["Steven Levy"]
+  },
+  {
+    "title": "The Book of Joy: Lasting Happiness in a Changing World",
+    "authors": ["Dalai Lama XIV", "Desmond Tutu", "Douglas Carlton Abrams"]
+  },
+  {
+    "title": "Breakfast of Champions",
+    "authors": ["Kurt Vonnegut"]
+  },
+  {
+    "title": "How to Invent Everything: A Survival Guide for the Stranded Time Traveller",
+    "authors": ["Ryan North"]
+  },
+  {
+    "title": "The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future",
+    "authors": ["Chris Guillebeau"]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "authors": ["J.D. Salinger"]
+  },
+  {
+    "title": "Lord of the Flies",
+    "authors": ["William Golding"]
+  },
+  {
+    "title": "Algorithms to Live By: The Computer Science of Human Decisions",
+    "authors": ["Brian Christian", "Tom Griffiths"]
+  }
 ]
